@@ -3,7 +3,7 @@
 ## AIM:
 To Install Ubuntu in VMware Player on Windows
 
-## STEPS:
+# STEPS:
 ## STEP 1:
 Download the Ubuntu iso (desktop not server)and the free VMware Player.
 
